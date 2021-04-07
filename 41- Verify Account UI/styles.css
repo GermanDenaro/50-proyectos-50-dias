@@ -52,7 +52,7 @@ body {
 
 .code:valid {
     border-color: #3498db;
-    border-width: 4px;
+    border-width: 3px;
     box-shadow: 0 10px 10px -5px rgba(0, 0, 0, 0.2);
 }
 
